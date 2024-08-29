@@ -12,3 +12,7 @@
 .title-bar{
     margin-top:0;
 }
+
+.current-menu-item > a{
+    color:#402c65;
+}
