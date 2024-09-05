@@ -11,6 +11,7 @@
 
 .title-bar{
     margin-top:0;
+    background:linear-gradient(90deg, hsla(332, 64%, 44%, 1) 0%, hsla(261, 39%, 28%, 1) 100%, hsla(226, 67%, 76%, 1) 100%);
 }
 
 .current-menu-item > a{
