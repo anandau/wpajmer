@@ -26,3 +26,13 @@
     box-shadow: 0 0 4px #0000004a;
     border-radius: 5px;
 }
+
+.organizer-loop .wcb_organizer figure {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.organizer-loop .wcb_organizer img {
+    width: 100% !important;
+    height: auto !important;
+}
