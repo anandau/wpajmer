@@ -40,3 +40,8 @@
 .home-sponsors li figure{
     margin-bottom:0;
 }
+
+.home-sponsors li {
+    box-shadow: 0 0 2px 0 #402c65;
+    border-radius: 10px;
+}
