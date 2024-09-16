@@ -36,3 +36,7 @@
     width: 100% !important;
     height: auto !important;
 }
+
+.home-sponsors li figure{
+    margin-bottom:0;
+}
